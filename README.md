@@ -1,6 +1,6 @@
 # 🔍 초콜릿 비전 품질 검사 AI 시스템
 
-YOLO / EfficientNet 비전 모델로 초콜릿 불량을 자동 검사하고, RAG 기반 AI 챗봇으로 원인·조치를 질의응답하는 **Streamlit 웹 애플리케이션**입니다.
+Detection / Classification 비전 모델로 초콜릿 불량을 자동 검사하고, RAG 기반 AI 챗봇으로 원인·조치를 질의응답하는 **Streamlit 웹 애플리케이션**입니다.
 
 ---
 
